@@ -32,7 +32,7 @@ I used each Jupyter Notebook in this project to focus on investigating specific 
 
 To find the most demanded skills for the top 3 most popular data roles(1) I filtered out those positions by which ones were the most popular and (2) got the top 5 skills for these top 3 roles. This query highlights the most popular job titles and their top skills, showing which skills focus on based on the role I am targetting.
 
-View my notebook with detailed steps here: [2_Skill_Demand.ipynb](2_Skills_Count.ipynb)
+View my notebook with detailed steps here: [2_Skills_Demand.ipynb](3_Capstone\2_Skills_Demand.ipynb)
 
 ### Visualise Data
 ```python 
@@ -49,7 +49,7 @@ plt.show()
 ``` 
 
 ### Result
-![3_Capstone/Images/Skill_demand_top3_data_roles.png](3_Capstone\Images\Skill_demand_top3_data_roles.png) 
+![Skill_demand_top3_data_roles](3_Capstone\Images\Skill_demand_top3_data_roles.png) 
 *Bar plots visualising most demanded skills for top 3 data job titles in the UK*
 
 ### Insights
@@ -61,7 +61,7 @@ Interestingly, Cloud computing skills (e.g. aws and azure) are rarely demanded f
 
 ## 2. How are In-demand skills trending for Data Analysts in the UK?
 To find how skills are trending in 2023 for Dta Analysts, I filtered data analyst positions and grouped the skills by the month of the job postings. This provided me the top 5 skills of data analysts by month, showing how popular skills were throughout 2023.
-View my notebook with detailed steps here: [3_Skills_Trend.ipynb](3_Capstone\3_Skills_Trend.ipynb)
+View my notebook with detailed steps here: [3_Skills_Trend](3_Capstone\3_Skills_Trend.ipynb)
 
 
 ### Visualise Data
@@ -79,7 +79,7 @@ plt.show()
  ```
 
  ### Results
- ![3_Capstone/Images/Data_Analysts_Skills_Trend](3_Capstone\Images\Data_Analysts_Skills_Trend.png)
+ ![Data_Analysts_Skills_Trend](3_Capstone\Images\Data_Analysts_Skills_Trend.png)
  *Line plots visualising the trend of top skills for Data Analysts in the UK in 2023*
 
 
@@ -97,7 +97,7 @@ The demand for Python and Tableau somehow tracked eachother and fluctuated aroun
 ## 3. How well do the Jobs and Skills pay for Data Analysts in the UK?
 To identify the highest-paying roles and skills, I filtered for only UK jobs and looked at their median salary.I then examined the salary distributions of common data jobs (Data Scientist, Data Engineer, and Data Analyst) to get an idea of which jobs are paid the most.
 
-View my notebook with detailed steps here: [4_Salary_Analysis.ipynb](3_Capstone\4_Salary_Analysis.ipynb)
+View my notebook with detailed steps here: [4_Salary_Analysis](3_Capstone\4_Salary_Analysis.ipynb)
 
 ### Salary Analysis for Data Roles
 
@@ -115,7 +115,7 @@ plt.show()
  ```
 
  ### Results
- ![3_Capstone/Images/Salary_Distribution](3_Capstone\Images\Salary_Distribution.png)
+ ![Salary_Distribution](3_Capstone\Images\Salary_Distribution.png)
  *Box plots for visualising the salary distribution for the top 6 job titles*
 
 ### Insights
@@ -150,7 +150,7 @@ plt.show()
  ```
 
  ### Result
- ![Highest Paid and Most In-demand Skills for Data Analysts in the UK](3_Capstone\Images\Highest_Paid_and_Most_Demanded_Skills.png) *Bar plots visualising (1) Highest Paid Skills and (2) Most Demanded Skills for Data Analysts in the UK*
+ ![Highest_Paid_and_Most_Demanded_Skills](3_Capstone\Images\Highest_Paid_and_Most_Demanded_Skills.png) *Bar plots visualising (1) Highest Paid Skills and (2) Most Demanded Skills for Data Analysts in the UK*
 
 
 ### Insights
@@ -164,7 +164,7 @@ These suggest that Data Analysts that wants to maximise their potential must dev
 
 Here, I grouped the skills to determine their median salaries and likelihood of being in job posting. I then visualise the median salary  against the percent of skill demand to determine the most optimal skills and if certain technologies are more prevalent.
 
-View my notebook with detailed steps here: [5_Optimal_Skills.ipynb](3_Capstone\5_Optimal_Skills.ipynb)
+View my notebook with detailed steps here: [5_Optimal_Skills](3_Capstone\5_Optimal_Skills.ipynb)
 
 ### visualise Data?
 ```python
@@ -178,7 +178,7 @@ plt.show()
 
 ```
 ### Results
-![3_Capstone/Images/Most_Optimal_Skills_for_Data_Analysts](3_Capstone\Images\Most_Optimal_Skills_for_Data_Analysts.png) *Scatter plot showing the most optimal(high-paying and high-demand) skills for Data Analysts in the UK*
+![Most_Optimal_Skills_for_Data_Analysts](3_Capstone\Images\Most_Optimal_Skills_for_Data_Analysts.png) *Scatter plot showing the most optimal(high-paying and high-demand) skills for Data Analysts in the UK*
 
 ### Insights
 From the plot, Programming skills (coloured Blue) formed two clusters: the top-right (Python and SQL) and the middle-left (sas, r, and go). The graph suggests that Data Analysts with programming skills in the top-right might benefit from higher demand and higher salary offer.
