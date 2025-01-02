@@ -49,7 +49,7 @@ plt.show()
 ``` 
 
 ### Result
-![Visualisation for top 3 data roles in the UK](3_Capstone\Images\Skill_demand_top3_data_roles.png)
+![3_Capstone/Images/Skill_demand_top3_data_roles](3_Capstone\Images\Skill_demand_top3_data_roles.png)
 *Bar plots visualising most demanded skills for top 3 data job titles in the UK
 
 ### Insights
@@ -79,7 +79,7 @@ plt.show()
  ```
 
  ### Results
- ![Trend of Top Skills for Data Analyst in the UK](3_Capstone\Images\Data_Analysts_Skills_Trend.png)
+ ![3_Capstone/Images/Data_Analysts_Skills_Trend](3_Capstone\Images\Data_Analysts_Skills_Trend.png)
  *Line plots visualising the trend of top skills for Data Analysts in the UK in 2023*
 
 
@@ -115,7 +115,7 @@ plt.show()
  ```
 
  ### Results
- ![Salary Distribution of Data Jobs in the UK](3_Capstone\Images\Salary_Distribution.png)
+ ![3_Capstone/Images/Salary_Distribution](3_Capstone\Images\Salary_Distribution.png)
  *Box plots for visualising the salary distribution for the top 6 job titles*
 
 ### Insights
@@ -178,7 +178,7 @@ plt.show()
 
 ```
 ### Results
-![Most Optimal Skills for Data Analysts in the UK](3_Capstone\Images\Most_Optimal_Skills_for_Data_Analysts.png) *Scatter plot showing the most optimal(high-paying and high-demand) skills for Data Analysts in the UK*
+![3_Capstone/Images/Most_Optimal_Skills_for_Data_Analysts](3_Capstone\Images\Most_Optimal_Skills_for_Data_Analysts.png) *Scatter plot showing the most optimal(high-paying and high-demand) skills for Data Analysts in the UK*
 
 ### Insights
 From the plot, Programming skills (coloured Blue) formed two clusters: the top-right (Python and SQL) and the middle-left (sas, r, and go). The graph suggests that Data Analysts with programming skills in the top-right might benefit from higher demand and higher salary offer.
