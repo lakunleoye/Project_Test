@@ -191,7 +191,7 @@ The only Cloud technology skills(coloured Green) that featured in the scattered 
 The project helped deepen my understanding of the data analyst job market in the UK, and also enhanced my Python skills especially in the area of data manipulation and visualisation. Specifically, I learned
 - **Advanced Python Usage**: My use of various libraries like Pandas for data manipulation, Seaborn and matplotlib for data visualisation enhance my ability for perfoming data analysis tasks efficiently.
 - **Data Cleaning Importance**: Throrough data  cleaning and preparation are crucial can before any analysis can be conducted as this would ensure accurate  insights are gleaned from the data.
--**Strategic Skill Analysis**:
+- **Strategic Skill Analysis**:
 The project emphasied the importance of alligning one's skills with market demand. Understanding the relationship between skill demand, salry, and job availability allows for more strategic career planning in the tech industry.
 
 
