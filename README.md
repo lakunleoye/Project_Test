@@ -49,8 +49,8 @@ plt.show()
 ``` 
 
 ### Result
-![3_Capstone/Images/Skill_demand_top3_data_roles.png](3_Capstone\Images\Skill_demand_top3_data_roles.png)
-*Bar plots visualising most demanded skills for top 3 data job titles in the UK
+![3_Capstone/Images/Skill_demand_top3_data_roles.png](3_Capstone\Images\Skill_demand_top3_data_roles.png) 
+*Bar plots visualising most demanded skills for top 3 data job titles in the UK*
 
 ### Insights
 In the UK, SQL is the the most sought after skills across the top 3 data roles. This is followed by Python. The level of request for each skill, however, vary for the individual roles. For example, Python featured prominently (69 %) for Data Scientists. This is in contrast with 20 % and 55 % for Data Analysts and Data Engineers. One notable information here is that Python is less essential for Data Analysts.
