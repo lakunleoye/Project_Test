@@ -82,6 +82,7 @@ plt.show()
  ![Data_Analysts_Skills_Trend](3_Capstone\Images\Data_Analysts_Skills_Trend.png)
  *Line plots visualising the trend of top skills for Data Analysts in the UK in 2023*
 
+![Trend of Data Analysts Skill in the UK in 2023](3_Capstone\Images\Data_Analysts_Skills_Trend.png)*Line plots visualising the trend of top skills for Data Analysts in the UK in 2024*
 
  ### Insight
 
