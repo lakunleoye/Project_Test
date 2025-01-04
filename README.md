@@ -74,7 +74,7 @@ sns.lineplot(data=df_plot, dashes=False, legend='full', palette='tab10')
 
 plt.gca().yaxis.set_major_formatter(PercentFormatter(decimals=0))
 
-plt.show() 
+plt.show()
 
  ```
 
