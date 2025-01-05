@@ -50,7 +50,8 @@ plt.show()
 
 ### Result
 
-![3_Capstone/Images/skill_demand_top3_data_roles.png](3_Capstone/Images/skill_demand_top3_data_roles.png)
+![alt text](3_Capstone/Images/skill_demand_top3_data_roles.png)
+
 *Bar plots visualising most demanded skills for top 3 data job titles in the UK*
 
 ### Insights
