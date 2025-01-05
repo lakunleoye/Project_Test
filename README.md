@@ -32,7 +32,7 @@ I used each Jupyter Notebook in this project to focus on investigating specific 
 
 To find the most demanded skills for the top 3 most popular data roles(1) I filtered out those positions by which ones were the most popular and (2) got the top 5 skills for these top 3 roles. This query highlights the most popular job titles and their top skills, showing which skills focus on based on the role I am targetting.
 
-View my notebook with detailed steps here: [2_Skills_Demand.ipynb](3_Capstone\2_Skills_Demand.ipynb)
+View my notebook with detailed steps here: [3_Capstone/2_Skills_Demand.ipynb](3_Capstone/2_Skills_Demand.ipynb)
 
 ### Visualise Data
 ```python 
