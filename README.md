@@ -50,6 +50,9 @@ plt.show()
 
 ### Result
 
+![Image](3_Capstone\Images\skill_demand_top3_data_roles.png)
+
+
 ![3_Capstone/Images/skill_demand_top3_data_roles.png](3_Capstone/Images/skill_demand_top3_data_roles.png)
 
 ![alt text](3_Capstone/Images/skill_demand_top3_data_roles.png)
