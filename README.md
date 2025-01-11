@@ -63,7 +63,7 @@ Interestingly, Cloud computing skills (e.g. aws and azure) are rarely demanded f
 
 ## 2. How are In-demand skills trending for Data Analysts in the UK?
 To find how skills are trending in 2023 for Dta Analysts, I filtered data analyst positions and grouped the skills by the month of the job postings. This provided me the top 5 skills of data analysts by month, showing how popular skills were throughout 2023.
-View my notebook with detailed steps here: [3_Skills_Trend](3_Capstone\3_Skills_Trend.ipynb)
+View my notebook with detailed steps here:[3_Capstone/3_Skills_Trend.ipynb](3_Capstone/3_Skills_Trend.ipynb)
 
 
 ### Visualise Data
