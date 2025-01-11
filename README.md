@@ -100,7 +100,7 @@ The demand for Python and Tableau somehow tracked eachother and fluctuated aroun
 ## 3. How well do the Jobs and Skills pay for Data Analysts in the UK?
 To identify the highest-paying roles and skills, I filtered for only UK jobs and looked at their median salary.I then examined the salary distributions of common data jobs (Data Scientist, Data Engineer, and Data Analyst) to get an idea of which jobs are paid the most.
 
-View my notebook with detailed steps here: [4_Salary_Analysis](3_Capstone\4_Salary_Analysis.ipynb)
+View my notebook with detailed steps here: [3_Capstone/4_Salary_Analysis.ipynb](3_Capstone/4_Salary_Analysis.ipynb)
 
 ### Salary Analysis for Data Roles
 
@@ -167,7 +167,8 @@ These suggest that Data Analysts that wants to maximise their potential must dev
 
 Here, I grouped the skills to determine their median salaries and likelihood of being in job posting. I then visualise the median salary  against the percent of skill demand to determine the most optimal skills and if certain technologies are more prevalent.
 
-View my notebook with detailed steps here: [5_Optimal_Skills](3_Capstone\5_Optimal_Skills.ipynb)
+View my notebook with detailed steps here: [3_Capstone/5_Optimal_Skills.ipynb](3_Capstone/5_Optimal_Skills.ipynb)
+
 
 ### visualise Data?
 ```python
